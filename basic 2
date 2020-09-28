@@ -1,0 +1,20 @@
+<script>
+var x, y, z;  // Statement 1
+x = 5;        // Statement 2
+y = 14;        // Statement 3
+z = x + y;    // Statement 4
+
+document.getElementById("demo").innerHTML =
+"The value of z is " + z + ".";  
+</script>
+
+====================================================
+
+JavaScript statements are composed of:
+
+Values, Operators, Expressions, Keywords, and Comments.
+
+Semicolons separate JavaScript statements.  When separated by semicolons, multiple statements on one line are allowed:
+a = 5; b = 6; c = a + b;
+
+
