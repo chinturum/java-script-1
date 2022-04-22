@@ -6,7 +6,7 @@ JavaScript is one of the 3 languages all web developers must learn:
 
    3. JavaScript to program the behavior of web pages
    
-   =====Learning Speed:===
+   =====Learning Speed:====
    
 In this tutorial, the learning speed is your choice.
 
